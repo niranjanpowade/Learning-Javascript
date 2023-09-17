@@ -1,3 +1,4 @@
+//Noramal object
 const name = {
   firstName: "Niranjan",
   lastName: "Powade",

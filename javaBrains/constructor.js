@@ -1,4 +1,4 @@
-//Always start your constructor with a capital character so you will get to know that it is a constructor not a function
+//Always start your constructor with a capital character so you will get to know that it is a constructor not a function    
 function createBicycle(cadence, speed, gear) {
   this.cadence = cadence;
   this.speed = speed;
