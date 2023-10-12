@@ -7,3 +7,6 @@ let employee = {
   },
 };
 employee.getWage();
+
+// Here the function doesnot have parameters. Someone said the best functions are those with no parameters
+// So this is what encapsulation is all about

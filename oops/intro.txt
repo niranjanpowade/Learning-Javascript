@@ -1,3 +1,13 @@
+Classes and objects are the two main aspects of object-oriented programming.
+class - Fruit
+object - Apple,Banana,Mango
+
+So, a class is a template for objects, and an object is an instance of a class.
+When the individual objects are created, they inherit all the variables and methods from the class.
+
+What is this?
+This is basically a reference to the object that is executing this peace of code.
+
 Q-4 pillars of object oriented programming?
     encapsulation 
     polymorphism 

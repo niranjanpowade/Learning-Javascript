@@ -1,0 +1,1 @@
+// This is like different objects wearing the same mask but behaving differently underneath. In JavaScript, it allows various objects to respond to the same function or method call in ways that are specific to each object's nature.
