@@ -1,0 +1,5 @@
+Q-4 pillars of object oriented programming?
+    encapsulation 
+    polymorphism 
+    abstraction 
+    inheritance
