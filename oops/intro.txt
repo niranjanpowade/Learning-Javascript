@@ -3,3 +3,7 @@ Q-4 pillars of object oriented programming?
     polymorphism 
     abstraction 
     inheritance
+
+In OOPS we combine group of related variables and functions in a unit. We called that unit an object
+Where variables are properties and functions are methods
+Example - Car is an object with properties such as model and color where as methods such as start(),Move() and stop()
