@@ -8,10 +8,6 @@ const json = [
     age: 35,
   },
   {
-    name: "Swapnil",
-    age: 32,
-  },
-  {
     name: "Sunita",
     age: 25,
   },
