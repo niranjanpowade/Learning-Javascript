@@ -1,0 +1,6 @@
+Typechecking in React Native is a process of verifying that the data and props (properties) passed between components are of the expected data 
+types. This practice is essential for improving the reliability and maintainability of your React Native applications, as it helps catch 
+type-related errors and provides better tooling and documentation
+
+Using type checking in React Native helps prevent runtime errors, enhances code readability, and provides better documentation for the
+components you create. Whether you choose PropTypes or TypeScript depends on your personal preference and the needs of your project.
